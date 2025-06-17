@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Sadula Bineetha
+ * @author Kirandeep Kaur
  */
 public class WarGame extends Game{
     
