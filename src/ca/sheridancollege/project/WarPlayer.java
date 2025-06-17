@@ -10,6 +10,7 @@ import java.util.List;
 /**
  
  * @author KaurKirandeep
+ * @author Komalpreet Kaur Komalpreet Kaur
  */
 public class WarPlayer extends Player{
     
