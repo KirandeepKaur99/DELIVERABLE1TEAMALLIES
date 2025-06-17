@@ -8,8 +8,8 @@ package ca.sheridancollege.project;
 import java.util.List;
 
 /**
- *
- * @author Sadula Bineetha
+ 
+ * @author KaurKirandeep
  */
 public class WarPlayer extends Player{
     
