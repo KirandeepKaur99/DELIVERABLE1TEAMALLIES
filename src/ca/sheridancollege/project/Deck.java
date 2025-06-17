@@ -2,17 +2,15 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package deck;
+package ca.sheridancollege.project;
 
 /**
  *
- * @author Anureet Kaur
+ * @author Sadula Bineetha
  */
-
+public class Deck extends GroupOfCards{
     
-    public class deck extends GroupOfCards{
-    
-    public deck() {
+    public Deck() {
         super(52);
         String[] suits = { "Hearts", "Diamonds", "Clubs", "Spades" };
         for (String suit : suits) {
@@ -21,7 +19,6 @@ package deck;
             }
         }
     }
-
+    
     
 }
-    
